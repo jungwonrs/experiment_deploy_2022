@@ -1,11 +1,7 @@
 # experiment_deploy_2022
 
-Mac environment is fixing.
-
-Windows is working. 
-
 go
-dist folder -> image_donloader folder -> image_downloader.exe 
+dist folder -> image_downloader folder -> image_downloader.exe 
 
 smart_contract - 0x6a92923B5b923204956133006FaFBE9a89A06111
 
