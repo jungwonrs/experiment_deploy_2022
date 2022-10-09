@@ -1,6 +1,7 @@
 # experiment_deploy_2022
 
-Mac environment is not working now.
+Mac environment is fixing.
+
 Windows is working. 
 
 go
