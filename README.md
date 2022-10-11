@@ -9,3 +9,4 @@ salt - tesy_123456789@!
 
 h1 - 878c52dab0facf233a1d9e2e7dcefbaca72bb23dbd128cafb68e9dcbcd5d240a
 
+image2 file will be created in dist folder
